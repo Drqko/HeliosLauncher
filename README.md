@@ -12,6 +12,7 @@
 ## Features
 
 * 🔒 Full account management.
+  * Microsoft Account Support
   * Add multiple accounts and easily switch between them.
   * Credentials are never stored and transmitted directly to Mojang.
 * 📂 Efficient asset management.

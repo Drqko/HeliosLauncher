@@ -2,7 +2,7 @@
 
 <h1 align="center">Vyzor Launcher</h1>
 
-[<p align="center"><img src="https://img.shields.io/travis/drqko/Vyzor-Launcher.svg?style=for-the-badge" alt="travis">](https://travis-ci.org/drqko/Vyzor-Launcher) [<img src="https://img.shields.io/github/downloads/drqko/Vyzor-Launcher/total.svg?style=for-the-badge" alt="downloads">](https://github.com/drqko/Vyzor-Launcher/releases)[<p align="center"><img src="https://img.shields.io/github/v/release/drqko/vyzor-launcher" alt="version">]
+[<p align="center"><img src="https://img.shields.io/github/v/release/drqko/vyzor-launcher" alt="version">](https://travis-ci.org/drqko/Vyzor-Launcher) [<img src="https://img.shields.io/github/downloads/drqko/Vyzor-Launcher/total.svg?style=for-the-badge" alt="downloads">](https://github.com/drqko/Vyzor-Launcher/releases)
 
 <p align="center">Customized for use on play.vyzor.net</p>
 

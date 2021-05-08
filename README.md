@@ -7,7 +7,8 @@
 <p align="center">Customized for use on play.vyzor.net</p>
 
 ![Screenshot 1](https://cdn.discordapp.com/attachments/192840809085796353/837226605688258570/1.png)
-![Screenshot 2](https://cdn.discordapp.com/attachments/192840809085796353/837226407959592970/unknown.png)
+![Screenshot 2](https://imgur.com/a/cGcBdyq)
+![Screenshot 3](https://cdn.discordapp.com/attachments/192840809085796353/837226407959592970/unknown.png)
 
 ## Features
 

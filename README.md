@@ -36,8 +36,6 @@ This is not an exhaustive list. Download and install the launcher to gauge all i
 ## Resources
 
 * [Wiki][wiki]
-* [Nebula (Create Distribution.json)][nebula]
-* [v2 Rewrite Branch (WIP)][v2branch]
 
 ---
 
